@@ -28,9 +28,15 @@
             <button type="submit" class="btn btn-success">Submit</button>
         </form>
     </div>
+{% endblock %}
 
+{% block js %}
+<script>
+{% if thank %}
+alert("Thanks for contacting us. Your infos will be thoroughly viewed by our support team.");
+localStorage.clear();
+document.location = "/shop";
+{% endif %}
 
-
-
-
+</script>
 {% endblock %}
