@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="126adb1e-7e37-48da-bb84-093b857ce96f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/blogpost.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/blogpost.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/shop/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/shop/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/shop/tracker.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/tracker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cP94d2g6BOWtqM2IPtLEkdYEXS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="126adb1e-7e37-48da-bb84-093b857ce96f" name="Default Changelist" comment="" />
+      <created>1590419177476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590419177476</updated>
+    </task>
+    <servers />
+  </component>
+</project>

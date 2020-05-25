@@ -7,7 +7,6 @@
       <h3 class="pb-4 mb-4 font-italic border-bottom">
        {{post.title}}
       </h3>
-
       <div class="blog-post">
         <h2 class="blog-post-title">{{post.heading0}}</h2>
         <p class="blog-post-meta">{{post.pub_date}} <a href="#">{{post.author}}</a></p>
@@ -16,6 +15,7 @@
         <p>{{post.cheading1}}</p>
         <h2>{{post.heading2}}</h2>
         <p>{{post.cheading2}}</p>
+        <div class="fb-comments" data-href="http://127.0.0.1:8000/blog/blogpost/{{post.post_id}}" data-numposts="5" data-width=""></div>
       </div>
 
     </div><!-- /.blog-main -->
@@ -26,7 +26,11 @@
         <p class="mb-0">Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
       </div>
 
-      <div class="p-4">
+      <div>
+        <div class="fb-like" data-href="http://127.0.0.1:8000/blog/blogpost/{{post.post_id}}" data-width="" data-layout="standard" data-action="like" data-size="large" data-share="true"></div>
+      </div>
+      <br>
+      <div>
         <h4 class="font-italic">Contact us on:</h4>
         <ol class="list-unstyled">
           <li><a href="#">GitHub</a></li>
